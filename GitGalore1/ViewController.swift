@@ -11,6 +11,7 @@ class ViewController: UIViewController {
 
     var exploreGit = "what"
     
+    var addMoreToGit = "yes put in GitGalore"
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
